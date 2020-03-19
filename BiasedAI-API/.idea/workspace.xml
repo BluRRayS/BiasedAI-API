@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b805a8bf-4d3a-473d-bae5-1e8366fa08be" name="Default Changelist" comment="" />
+    <list default="true" id="b805a8bf-4d3a-473d-bae5-1e8366fa08be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BiasedAI-API.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BiasedAI/Context/PersonMemoryContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BiasedAI/Context/PersonMemoryContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BiasedAI/Controllers/PythonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BiasedAI/Controllers/PythonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BiasedAI/Models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BiasedAI/Models/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Config/ApplicationConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Config/ApplicationConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Context/Interfaces/IPersonContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Context/Interfaces/IPersonContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Context/PersonMemoryContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Context/PersonMemoryContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Controllers/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Controllers/PersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Controllers/PythonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Controllers/PythonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Enums/Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Enums/Gender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Managers/PersonManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Managers/PersonManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Models/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Models/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Repository/PersonRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Repository/PersonRepository.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +47,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZLcwzPU2pVq7H9Tsxq8PpTZuxE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,13 +55,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -72,11 +115,23 @@
       <updated>1584622057750</updated>
       <workItem from="1584622059105" duration="2643000" />
       <workItem from="1584624763499" duration="9000" />
+      <workItem from="1584625775678" duration="1570000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1584624001814">
@@ -119,5 +174,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584622442676" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BiasedAI/Controllers/PythonController.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BiasedAI/Controllers/PythonController.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

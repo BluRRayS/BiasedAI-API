@@ -6,13 +6,13 @@ public class Person {
     public Person() {
     }
 
-    public Person(Gender gender, int age) {
+    public Person(Gender gender, String age) {
         this.gender = gender;
         this.age = age;
     }
 
     private Gender gender;
-    private int age;
+    private String age;
 
     public Gender getGender() {
         return gender;
@@ -22,11 +22,11 @@ public class Person {
         this.gender = gender;
     }
 
-    public int getAge() {
+    public String getAge() {
         return age;
     }
 
-    public void setAge(int age) {
+    public void setAge(String age) {
         this.age = age;
     }
 }

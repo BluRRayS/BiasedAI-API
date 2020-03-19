@@ -11,7 +11,13 @@ public class PersonMemoryContext implements IPersonContext {
 
     @Override
     public void createPerson(Person person) {
-        persons.set(0, person);
+        if(persons.size() == 0) {
+            persons.add(person);
+        }
+        else
+        {
+            persons.set(0,person);
+        }
     }
 
     @Override

@@ -13,8 +13,8 @@ public class PythonController {
     @Autowired
     private PersonManager personManager;
 
-    @RequestMapping(value = "/PersonData", method = RequestMethod.POST)
-    public ResponseEntity<String> PersonData(@RequestParam int age, @RequestParam String gender)
+    @PostMapping("/PersonData")
+    public ResponseEntity<String> PersonData(@RequestParam  String age, @RequestParam String gender)
     {
         try{
             Person person = new Person(Gender.valueOf(gender),age);
