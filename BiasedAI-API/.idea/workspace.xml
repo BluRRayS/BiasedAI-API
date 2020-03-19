@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b805a8bf-4d3a-473d-bae5-1e8366fa08be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BiasedAI-API.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BiasedAI/Context/PersonMemoryContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BiasedAI/Context/PersonMemoryContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BiasedAI/Controllers/PythonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BiasedAI/Controllers/PythonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BiasedAI/Models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BiasedAI/Models/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Config/ApplicationConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Config/ApplicationConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Context/Interfaces/IPersonContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Context/Interfaces/IPersonContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Context/PersonMemoryContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Context/PersonMemoryContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Controllers/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Controllers/PersonController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Controllers/PythonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Controllers/PythonController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Enums/Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Enums/Gender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Managers/PersonManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Managers/PersonManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Models/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Models/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BiasedAI/Repository/PersonRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BiasedAI/Repository/PersonRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BiasedAI/Controllers/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BiasedAI/Controllers/PersonController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +99,7 @@
       <updated>1584622057750</updated>
       <workItem from="1584622059105" duration="2643000" />
       <workItem from="1584624763499" duration="9000" />
-      <workItem from="1584625775678" duration="1570000" />
+      <workItem from="1584625775678" duration="2686000" />
     </task>
     <servers />
   </component>
@@ -182,11 +166,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/BiasedAI/Controllers/PythonController.java</url>
           <line>17</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/BiasedAI/Controllers/PythonController.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

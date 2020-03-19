@@ -14,6 +14,7 @@ public class PersonController {
     @Autowired
     private PersonManager personManager;
 
+    @CrossOrigin
     @GetMapping("/GetPerson")
     public ResponseEntity<Person> GetPerson()
     {
